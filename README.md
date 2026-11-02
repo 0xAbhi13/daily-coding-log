@@ -205,18 +205,4 @@ Frontend Developer — HTML • CSS • JavaScript
 
 [![GitHub](https://img.shields.io/badge/GitHub-%400xAbhi13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xAbhi13)
 
-⭐ If you like this project, consider giving it a star!
-
-</div>
-
-## 📄 License
-
-Released under the [MIT License](LICENSE).
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:00E5FF&height=120&section=footer" width="100%"/>
-
-**Made with 💻 and a lot of coffee.**
-
-</div>
+⭐ If you like this project, consider giving it a star
