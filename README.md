@@ -185,15 +185,3 @@ MyPortfolio/
 <div align="center">
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/pixel-line.gif" width="100%">
 </div>
-
-## 👨‍💻 Author
-
-<div align="center">
-
-### Abhishek Jadhav
-
-Frontend Developer — HTML • CSS • JavaScript
-
-[![GitHub](https://img.shields.io/badge/GitHub-%400xAbhi13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xAbhi13)
-
-⭐ If you like this project, consider giving it a star
