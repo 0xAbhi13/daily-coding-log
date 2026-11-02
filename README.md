@@ -182,15 +182,6 @@ MyPortfolio/
     └── icons/
 ```
 
-## 🛣️ Roadmap
-
-- [ ] Dark mode toggle
-- [ ] Blog section
-- [ ] Downloadable resume
-- [ ] Project filtering by tech stack
-- [ ] More micro-interactions
-- [ ] Accessibility improvements
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/pixel-line.gif" width="100%">
 </div>
